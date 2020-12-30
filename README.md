@@ -11,11 +11,13 @@ currently I am reading the books:
 
 so I am not that active on git hub, because I am busy with personal things and reading those books.
 
-[Stack Overflow](https://stackoverflow.com/users/9245201/dsal3389#)
-[TryHackMe](https://tryhackme.com/p/dsal3389)
-[Steam](https://steamcommunity.com/id/dsal3389_/)
+* [Stack Overflow](https://stackoverflow.com/users/9245201/dsal3389#)
+* [TryHackMe](https://tryhackme.com/p/dsal3389)
+* [Steam](https://steamcommunity.com/id/dsal3389_/)
 
-here is something I made, make sure u have python3:
+<br/>
+
+here is some oOoOo bar that I made in 1 line, look at them jumping around (requires python3):
 ```sh
 >>> python3 -c "while True: [print('\r%s' %(''.join((chr(ord('O') | (0x20 if (j-i) % 2 else 0x0))) for j in range(i))), end='') for i in range(100)]"
 ```
