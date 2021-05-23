@@ -3,6 +3,7 @@
 ## im a
   *  self taught programmer
   *  linux > windows
+  *  current job: security and network specialist at internet binat
  
 currently I am reading the books:
 *  HACKING - the art of exploitation ([on amazon](https://www.amazon.com/-/he/dp/1593271441/ref=sr_1_1?dchild=1&keywords=the+art+of+hacking&qid=1609011565&sr=8-1))
