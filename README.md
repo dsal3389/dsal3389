@@ -4,7 +4,7 @@ languages:
 * javascript / typescript
 
 
-I read books because I am smart and kool
+I read books because I am smart and kool, lemme show off real quick
 * the linux programming interface
 * POWER by robert green
 * HACKING the art of exploitation
