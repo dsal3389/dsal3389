@@ -1,7 +1,7 @@
 http://dsal3389.xyz/
 
 
-languages:
+### languages:
 * C
 * python
 * javascript / typescript
